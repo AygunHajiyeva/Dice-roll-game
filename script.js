@@ -20,4 +20,5 @@ function roll() {
     dice1.src = images[num1];
     dice2.src = images[num2];
 
-}
+
+};
