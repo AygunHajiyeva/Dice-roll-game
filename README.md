@@ -14,7 +14,7 @@
 ![2022-05-04 (5)](https://user-images.githubusercontent.com/99952793/166724873-3255740c-8190-474f-8937-66476027719c.png)
 
  
- put here imagaes
+
 ### Built With
 HTML, CSS, JavaScript
 
